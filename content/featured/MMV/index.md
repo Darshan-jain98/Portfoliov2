@@ -12,4 +12,4 @@ tech:
   - R&D
 ---
 
-Headed the team at Singapore Autonomous Underwater Vehicle challenge 2018(SAUVC) where we secured 4th rank among the 45 participating teams with out any prior experience in the domain.  
+Developed a vehicle that has the ability to travle on land, air and water by integrating multi rotor vehicle with a hovercraft 

@@ -3,7 +3,7 @@ date: '2021-08-25'
 title: 'Mechatronics Intern'
 company: 'Ommo Technologies'
 location: 'Dallas, TX'
-range: 'June - August 2021'
+range: 'June - August 2022'
 url: 'https://www.ommo.co/'
 ---
 
