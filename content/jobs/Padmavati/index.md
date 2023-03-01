@@ -1,7 +1,7 @@
 ---
 date: '2019-10-21'
 title: 'Robotics Intern - Manufacturing & Operations'
-company: 'Padmavati Metals Industries Pvt. Ltd'
+company: 'Padmavati Metals Industries'
 location: 'Thane, Maharashtra'
 range: 'May - October 2019'
 # url: 'https://www.apple.com/music/'
