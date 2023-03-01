@@ -5,9 +5,9 @@ module.exports = {
     title: 'Darshan Jain',
     description:
       'Darshan Jain is a Hardware engineer who specializes in building (and occasionally designing) hardware solutions for robotics systems .',
-    siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
+    siteUrl: 'https://darshanj.me', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@bchiang7',
+    twitterUsername: '',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
