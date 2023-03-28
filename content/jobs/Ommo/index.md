@@ -7,7 +7,7 @@ range: 'June - August 2022'
 url: 'https://www.ommo.co/'
 ---
 
-- Designed and maintained test fixtures used to characterize, debug, and calibrate various Ommo hardware, both internally and on the production line.
-- Created and maintained hardware and components documentation in the company knowledge base.
-- Managed the manufacturing and production of custom hardware by working with overseas suppliers.
-- Designed, tested, and debugged PCBs for various Ommo products using Altium, ensuring EMI compliance.
+- Designed 6-layer PCB schematics and layouts for Ommo products utilizing Altium, ensuring EMI compliance.
+- Managed the selection of electronic components and production of hardware, resulting in a 10% decrease in production time and reducing the cost by 8%.
+- Collaborated with product and engineering teams to create documentation on hardware for the company's knowledge base, improving cross-departmental knowledge sharing.
+- Conducted thorough hardware testing and debugging using laboratory equipment such as oscilloscopes, logic analyzers, and multimeters, ensuring product quality and performance.

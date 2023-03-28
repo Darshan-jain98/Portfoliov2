@@ -1,7 +1,7 @@
 ---
 date: '1'
 title: 'Autonomous Underwater Vehicle'
-cover: './main2.png'
+cover: './main3.jpg'
 github: ''
 external: 'https://drive.google.com/drive/folders/1a42lsccFEuhdD_W8SOJvp-BQYFuk69CS?usp=share_link'
 tech:

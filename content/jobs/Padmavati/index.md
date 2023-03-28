@@ -4,10 +4,10 @@ title: 'Robotics Intern - Manufacturing & Operations'
 company: 'Padmavati Metals Industries'
 location: 'Thane, Maharashtra'
 range: 'May - October 2019'
-# url: 'https://www.apple.com/music/'
 ---
 
-- Enhanced supply chain procedures and activities, from the efficient unloading of raw materials to the automated packaging of final goods.
-- Assisted in reducing production lead time by 1.5 minutes increasing revenue by $10.3K per month.
-- Coordinated with team members to report methods and results in selection of optimal AGV system to higher management.
-- Conducted hardware debugging and testing.
+- Optimized supply chain procedures and activities, resulting in a 15% reduction in raw material unloading time and a 10% increase in the packaging of final goods.
+- Recommended process improvements that reduced production time by 1.5 minutes.
+- Collaborated with team members to evaluate and recommend an optimal automation system that could potentially increase production efficiency by 5%.
+- Conducted thorough hardware debugging and testing, ensuring continuous operations at the manufacturing plant.
+

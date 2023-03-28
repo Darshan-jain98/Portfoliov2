@@ -8,6 +8,7 @@ tech:
   - ROS
   - C++
   - Gazebo
+company: 'University of Maryland'
 showInProjects: false
 ---
 

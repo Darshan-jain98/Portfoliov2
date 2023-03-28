@@ -8,6 +8,7 @@ tech:
   - ROS
   - Gazebo
   - MoveIT
+company: 'University of Maryland'
 showInProjects: true
 ---
 

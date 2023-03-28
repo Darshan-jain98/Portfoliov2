@@ -4,11 +4,12 @@ title: 'Water Monitoring System'
 github: ''
 external: ''
 tech:
-  - VS Code
+  - CLion
   - Altium
   - PlatformIO
   - C++
   - ESP32
+company: 'Kick Robotics'
 showInProjects: true
 ---
 

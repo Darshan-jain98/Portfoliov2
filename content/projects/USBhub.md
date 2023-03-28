@@ -6,6 +6,7 @@ external: ''
 tech:
   - Altium
   - R&D
+company: 'Ommo Technologies'
 showInProjects: true
 ---
 
