@@ -10,4 +10,4 @@ package-lock.json
 
 .vscode/
 
-.temp.driveupload
+.temp.driveupload/
