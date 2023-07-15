@@ -1,9 +1,10 @@
 ---
-date: '2022-09-18'
-title: 'Robotics Hardware Engineer'
-company: 'Kick Robotics'
-location: 'College Park, MD'
-range: 'September 2022 - May 2023'
+date: '2023-06-15'
+title: 'Electrical Engineer'
+company: 'BTE Technologies'
+location: 'Hanover, MD'
+range: 'June 2023 - Present'
+url: 'https://www.btetechnologies.com/'
 ---
 
 - Conceptualized and developed electrical circuits for autonomous vehicles, successfully integrating sensors, actuators, and control systems, resulting in a 25% increase in vehicle efficiency.
